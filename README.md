@@ -2,6 +2,8 @@
 
 - 🔭 I’m a brazilian Architect
 - 🌱 I’m currently learning JavaScript and a little bit of HTML and CSS
+- 🐟 I'm also an aquarium hobbyist
+- 🎮 In my free time I enjoy playing videogames and having some beer (cheers)
 - 📫 Look for me on most social media as @sucodelarangela
 - 😄 Pronouns: she/her
 <!-- - 👯 I’m looking to collaborate on ...
