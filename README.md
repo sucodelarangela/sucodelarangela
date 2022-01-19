@@ -1,8 +1,8 @@
 ### Hi there, folks 👋
 
-- 🔭 I’m a brazilian Architect
-- 🌱 I’m currently learning JavaScript and a little bit of HTML and CSS
-- 🐟 I'm also an aquarium hobbyist
+- 🌱 I’m focused on learning JavaScript, HTML and CSS (probably Vue)
+- 🔭 I’m currently working as an Architect and Urban Planner
+- 🐟 I'm also an aquarium hobbyist, which demands persistence, control and commitment
 - 🎮 In my free time I enjoy playing videogames and having some beer (cheers)
 - 📫 Look for me on most social media as @sucodelarangela
 - 😄 Pronouns: she/her
