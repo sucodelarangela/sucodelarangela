@@ -21,11 +21,12 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-gif" height="120" src="https://www.pinclipart.com/picdir/big/294-2949283_orange-citrus-pixelated-pixelart-freetouse-clipart.png">
+  <!--<img align="right" alt="Rafa-gif" height="120" src="https://www.pinclipart.com/picdir/big/294-2949283_orange-citrus-pixelated-pixelart-freetouse-clipart.png">-->
 </div>
-
+  
+<!-- 
   ##
-<!--  
+ 
 <div>
   <a href="https://twitter.com/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/AngelaCaldas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
