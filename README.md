@@ -1,15 +1,15 @@
-### Hi there, folks 👋
+<!-- ### Hi there, folks 👋 -->
 
-- 🌱 I’m focused on learning JavaScript, HTML and CSS (probably Vue)
-- 🔭 I’m currently working as an Architect and Urban Planner
+- 🌱 Focused on learning JavaScript, HTML and CSS (probably Vue soon)
+- 🔭 Currently working as an Architect and Urban Planner
 - 🐟 I'm also an aquarium hobbyist, which demands persistence, control and commitment
 - 🎮 In my free time I enjoy playing videogames and having some beer (cheers)
 - 📫 Look for me on most social media as @sucodelarangela
 - 😄 Pronouns: she/her
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-<!-- - ⚡ Fun fact: ... -->
+- 💬 Ask me about ... 
+- ⚡ Fun fact: ... -->
 
 <div>
   <a href="https://www.linkedin.com/in/angela-caldas/">
