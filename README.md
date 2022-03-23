@@ -1,6 +1,6 @@
 <!-- ### Hi there, folks 👋 -->
 
-- 🌱 Focused on learning JavaScript, HTML and CSS (probably Vue soon)
+- 🌱 Focused on specializing in JavaScript, HTML and CSS. Also learning Node.js, Express and EJS.
 - 🔭 Currently working as an Architect and Urban Planner
 - 🐟 I'm also an aquarium hobbyist, which demands persistence, control and commitment
 - 🎮 In my free time I enjoy playing videogames and having some beer (cheers)
