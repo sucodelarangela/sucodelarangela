@@ -1,41 +1,31 @@
-<!-- ### Hi there, folks 👋 -->
+<div align="center">
+  <a href="https://angelacaldas.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/sucodelarangela/portfolio/816c8f9d4e2ed795a95f931e8e937acf70c5d228/images/logo_white.svg" alt="Angela's logo" width="80px"></a>
+</div>
 
-- 🌱 Focused on specializing in JavaScript, HTML and CSS. Also learning Node.js, Express and EJS.
-- 🔭 Currently working as an Architect and Urban Planner
-- 🐟 I'm also an aquarium hobbyist, which demands persistence, control and commitment
-- 🎮 In my free time I enjoy playing videogames and having some beer (cheers)
-- 📫 Look for me on most social media as @sucodelarangela
-- 😄 Pronouns: she/her
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- ⚡ Fun fact: ... -->
+---
+
+- 🌱 Focused on specializing as a Front-End Developer.
+- 🔭 Currently working as an Architect and Urban Planner, but I intend to my change career path soon.
+- 🐟 I'm also an aquarium hobbyist, which demands persistence, control and commitment.
+- 🎮 In my free time I enjoy playing videogames and having some beer (cheers).
+- 📫 Look for me on most social media as @sucodelarangela.
+- 😄 Pronouns: she/her/hers
 
 <div>
-  <a href="https://www.linkedin.com/in/angela-caldas/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sucodelarangela&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucodelarangela&layout=compact&langs_count=16&theme=outrun"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML shield">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS shield">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js shield"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express shield" />
+  <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge" alt="EJS shield" />
+  <img src="https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite shield" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="right" alt="Rafa-gif" height="120" src="https://www.pinclipart.com/picdir/big/294-2949283_orange-citrus-pixelated-pixelart-freetouse-clipart.png">-->
-</div>
-  
-<!-- 
-  ##
- 
+
+---
+
+### Get in touch:
 <div>
-  <a href="https://twitter.com/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/AngelaCaldas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aes.caldas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/angela-caldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://angelacaldas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Portfolio shield"></a>
+  <a href="https://www.linkedin.com/in/angela-caldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield"></a>
+  <a href="https://twitter.com/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter shield"></a>
 </div>
-  
-![Snake animation](https://github.com/sucodelarangela/sucodelarangela/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
--->
