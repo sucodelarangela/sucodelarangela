@@ -8,7 +8,7 @@
 - 🔭 Currently working as an Architect and Urban Planner, but I intend to my change career path soon.
 - 🐟 I'm also an aquarium hobbyist, which demands persistence, control and commitment.
 - 🎮 In my free time I enjoy playing videogames and having some beer (cheers).
-- 📫 Look for me on most social media as @sucodelarangela.
+- 📫 You can find me on most social media as @sucodelarangela.
 - 😄 Pronouns: she/her/hers
 
 <div>
