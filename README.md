@@ -35,3 +35,9 @@
   <a href="https://www.linkedin.com/in/angela-caldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield"></a>
   <a href="https://twitter.com/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter shield"></a>
 </div>
+
+<!--
+<div align='center'>
+<a height="150em" href="http://www.github.com/sucodelarangela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sucodelarangela&stroke=B3B2B8&background=141439&ring=FECB00&fire=FECB00&currStreakNum=FE1AFE&currStreakLabel=FECB00&sideNums=FE1AFE&sideLabels=FECB00&dates=8080fe&hide_border=false" /></a>
+</div>
+-->
