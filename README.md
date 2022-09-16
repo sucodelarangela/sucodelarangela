@@ -30,8 +30,9 @@
 
 ### Get in touch:
 <div>
-  <a href="https://www.linkedin.com/in/angela-caldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield"></a>
-  <a href="https://angelacaldas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Portfolio shield"></a>
+  <a href="https://www.linkedin.com/in/angela-caldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>
+  <a href="https://cursos.alura.com.br/vitrinedev/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
+  <a href="https://angelacaldas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
 </div>
 
 <!--
