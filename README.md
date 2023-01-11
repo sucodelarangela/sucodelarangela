@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/EJS-A91E50?style=for-the-badge" alt="EJS shield" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express shield" />
   <img src="https://img.shields.io/badge/SQLite3-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite shield" />
+  <img src="https://img.shields.io/badge/mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/styled components-3C3C3C?style=for-the-badge&logo=styled-components&logoColor=DB7093">
+  <img src="https://img.shields.io/badge/firebase-051e34?style=for-the-badge&logo=firebase&logoColor=FFCA28">
+  <img src="https://img.shields.io/badge/axios-ffffff?style=for-the-badge&logo=axios&logoColor=5A29E4">
 </div>
 
 ## Hello, my friend. Stay a while and listen.
