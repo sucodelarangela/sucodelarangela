@@ -20,10 +20,15 @@
 
 ## Hello, my friend. Stay a while and listen.
 
-- 🌱 I'm Angela and I'm focused on specializing as a Front-End Developer.
-- 🔭 I have a bachelor's degree in Architecture and Urban Planning and I'm currently working as such, but I intend to change my career path soon and I'm working very hard towards it.
-- 🎮 In my free time I enjoy playing videogames and having some beer (cheers). I'm also an aquarium hobbyist, which demands persistence, control and commitment.
-- 😄 Pronouns: she/her/hers
+I am currently working as a Front End Developer at Opea Capital, where I use Vue.js on a daily basis.
+
+Prior to that, I worked as a freelance front-end developer for almost 3 years. I also have experience with technologies such as React, JavaScript, HTML, CSS / Sass / Styled-Components, Express, SQLite 3, EJS, Firebase, MongoDb Atlas, Git / Github, Visual Studio Code and Figma / Canva.
+
+In addition, I have a degree in Architecture and Urbanism and worked as an English teacher for almost 5 years before changing careers. I am dedicated to continuously improving my skills and delivering high-quality work.
+
+In my free time I enjoy playing videogames and having some beer (cheers). I'm also an aquarium hobbyist, which demands persistence, control and commitment.
+
+Pronouns: she/her/hers
 
 ---
 
