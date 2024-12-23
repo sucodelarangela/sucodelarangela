@@ -37,6 +37,10 @@ Pronouns: she/her/hers
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucodelarangela&layout=compact&langs_count=16&theme=outrun"/>
 </div>
 
+<div align='center'>
+<a height="150em" href="http://www.github.com/sucodelarangela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sucodelarangela&stroke=B3B2B8&background=141439&ring=FECB00&fire=FECB00&currStreakNum=FE1AFE&currStreakLabel=FECB00&sideNums=FE1AFE&sideLabels=FECB00&dates=8080fe&hide_border=false" /></a>
+</div>
+
 ---
 
 ### Get in touch:
@@ -44,10 +48,5 @@ Pronouns: she/her/hers
   <a href="https://www.linkedin.com/in/angela-caldas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn"></a>
   <a href="https://cursos.alura.com.br/vitrinedev/sucodelarangela" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>
   <a href="https://angelacaldas.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
-</div>
-
-
-<div align='center'>
-<a height="150em" href="http://www.github.com/sucodelarangela"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sucodelarangela&stroke=B3B2B8&background=141439&ring=FECB00&fire=FECB00&currStreakNum=FE1AFE&currStreakLabel=FECB00&sideNums=FE1AFE&sideLabels=FECB00&dates=8080fe&hide_border=false" /></a>
 </div>
 
